@@ -1,0 +1,3 @@
+steps\LoginSteps.class
+steps\LogoutSteps.class
+ruuner\TestRunner.class
